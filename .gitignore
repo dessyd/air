@@ -1,5 +1,7 @@
 # .gitignore for Splunk
-*.DS_Store
+.DS_Store
+.gitattributes
+.gitignore
 *local.meta
 *local/
 *.spl
